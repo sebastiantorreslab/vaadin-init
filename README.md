@@ -44,3 +44,4 @@ Once the JAR file is built, you can run it using
 - Ask questions on [Stack Overflow](https://stackoverflow.com/questions/tagged/vaadin) or join our [Discord channel](https://discord.gg/MYFq5RTbBn).
 - Report issues, create pull requests in [GitHub](https://github.com/vaadin).
 # vaadin-init
+# vaadin-init
