@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # My Todo
 
 This project can be used as a starting point to create your own Vaadin application with Spring Boot.
@@ -46,5 +45,4 @@ Once the JAR file is built, you can run it using
 - Ask questions on [Stack Overflow](https://stackoverflow.com/questions/tagged/vaadin) or join our [Discord channel](https://discord.gg/MYFq5RTbBn).
 - Report issues, create pull requests in [GitHub](https://github.com/vaadin).
 # vaadin-init
->>>>>>> 6b326b20275522dcedc634e2f8bbbe1552c430c2
-# vaadin-init
+
